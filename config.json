@@ -1,0 +1,9 @@
+{
+  "version":1,
+  "api_url":"https://a3x9r3.cdlf3.com/",
+  "image_url":"https://a3x9r3.cdlf3.com/",
+  "backup_url":[
+    "https://备用域名1.com/",
+    "https://备用域名2.com/"
+  ]
+}
