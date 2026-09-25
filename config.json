@@ -11,9 +11,9 @@
 
   "server": {
 
-    "api_url": "https://a3x9r3.cdlf3.com/",
+    "api_url": "https://b3r3.cdlf3.com/",
 
-    "image_url": "https://a3x9r3.cdlf3.com/",
+    "image_url": "https://b3r3.cdlf3.com/",
 
     "timeout": 10
 
@@ -24,14 +24,14 @@
 
     {
       "name": "备用服务器1",
-      "api_url": "https://backup1.example.com/",
-      "image_url": "https://backup1.example.com/"
+      "api_url": "https://abb.cdlf3.com/",
+      "image_url": "https://abb.cdlf3.com/"
     },
 
     {
       "name": "备用服务器2",
-      "api_url": "https://backup2.example.com/",
-      "image_url": "https://backup2.example.com/"
+      "api_url": "https://333.cdlf3.com/",
+      "image_url": "https://333.cdlf3.com/"
     }
 
   ],
