@@ -11,13 +11,9 @@
 
   "server": {
 
-    "api_url": "https://xwhip1.cdlf3.com/",
+    "api_url": "https://028lf.lol/",
 
-    "image_url": "https://xwhip1.cdlf3.com/",
-
-    "random_subdomain": true,
-
-    "wildcard_domain": "cdlf3.com",
+    "image_url": "https://028lf.lol/",
 
     "timeout": 10
 
@@ -28,14 +24,8 @@
 
     {
       "name": "备用服务器1",
-      "api_url": "https://abb21w.cdlf3.com/",
-      "image_url": "https://abb21w.cdlf3.com/"
-    },
-
-    {
-      "name": "备用服务器2",
-      "api_url": "https://3ef73.cdlf3.com/",
-      "image_url": "https://3ef73.cdlf3.com/"
+      "api_url": "https://sk2djd.cdlf3.com/",
+      "image_url": "https://sk2djd.cdlf3.com/"
     }
 
   ],
