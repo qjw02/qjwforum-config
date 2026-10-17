@@ -4,6 +4,10 @@
   "app": {
     "min_version": "1.0",
     "latest_version": "1.0",
+    "min_version_code": 1,
+    "latest_version_code": 14,
+    "latest_version_name": "2.1.2",
+    "update_message": "发现新版本，建议立即更新。",
     "force_update": false,
     "download_url": ""
   },
